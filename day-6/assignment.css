@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+}
+
+#mainTopic{
+    color: blue;
+}
+
+.sujal{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.swara{
+    background-color: #6459ed;
+    color: white;
+}
+
+div{
+    background-color: #a020f0;
+    color: azure;
+}
+
+button:hover{
+    background-color: yellow;
+    color: #00f;
+}
+
+p:nth-of-type(2n+1){
+    color: yellow;
+}
+
+h1::first-letter{
+    color: red;
+}
+
+#yes:checked+label{
+    color: darkgreen;
+}
+
