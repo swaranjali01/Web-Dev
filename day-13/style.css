@@ -13,19 +13,19 @@ body{
 }
 
 .sidebar{
-    background-color: red;
+    background-color: #121212;
    width: 340px;
 
 }
 
 .maincontent{
-    background-color: blue;
+    background-color: #121212;
    flex: 1;
 
 }
 
 .musicplayer{
-    background-color: yellow;
+    background-color: black;
     width: 100%;
     position: fixed;
     bottom: 0;
