@@ -5,3 +5,29 @@ body{
     color: #fff;
     overflow: hidden;
 }
+
+.main{
+    display: flex;
+    height: 100vh;
+
+}
+
+.sidebar{
+    background-color: red;
+   width: 340px;
+
+}
+
+.maincontent{
+    background-color: blue;
+   flex: 1;
+
+}
+
+.musicplayer{
+    background-color: yellow;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 72px;
+}
