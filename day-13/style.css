@@ -31,3 +31,8 @@ body{
     bottom: 0;
     height: 72px;
 }
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
