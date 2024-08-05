@@ -15,7 +15,8 @@ body{
 .sidebar{
     background-color: #000;
    width: 340px;
-
+    border-radius: 1rem;
+    margin-right: 0.5rem;
 }
 
 .maincontent{
@@ -107,8 +108,8 @@ a{
     background-color: #121212;
     height: 8rem;
     border-radius: 0.75rem;
-    margin: 0.5rem 0 0.5rem 0;
-    padding: 1rem 1.25rem;
+    margin: 0.75rem 0 1.75rem 0;
+    padding: 0.75rem 1rem;
 }
 
 .box-p1{
@@ -127,5 +128,7 @@ a{
     border-radius: 100px;
     padding: 0.25rem 1rem;
     font-weight: 700;
-    margin-top: ;
+    margin-top: 0.5rem;
+    height: 2rem;
+    width: fit-content;
  }   
