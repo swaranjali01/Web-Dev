@@ -180,7 +180,7 @@ a{
      margin-top: 1rem;
 }
 
-.card-container {
+.cards-container {
     display: flex;
     flex-wrap:wrap;
 }
