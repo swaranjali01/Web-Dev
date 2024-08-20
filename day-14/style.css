@@ -34,3 +34,7 @@ margin: 20px;
 .flash {
     background-color: white;
 }
+
+.userFlash {
+    background-color: aqua;
+}
