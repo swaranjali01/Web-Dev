@@ -149,6 +149,7 @@ a{
     justify-content: space-between;
     justify-items:center;
     padding:1rem 0 1rem 0 ;
+    z-index: 10;
  }
 
  .sticky-nav-icons{
@@ -208,7 +209,7 @@ a{
 
 .line {
     width: 90%;
-    height: 0%;
+    height: 50%;
     border-top: 1px solid white;
     opacity: 0.4;
 }
