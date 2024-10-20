@@ -147,7 +147,7 @@ a{
     background-color: #121212;
     display: flex;
     justify-content: space-between;
-    justify-items:center;
+    align-items:center;
     padding:1rem 0 1rem 0 ;
     z-index: 10;
  }
@@ -220,14 +220,17 @@ a{
 
 .album {
     width: 25%;
+background-color: aqua;
 }
 
 .player {
     width: 50%;
+    background-color: #1bd760;
 }
 
 .controls {
     width: 25%;
+background-color: aquamarine;
 }
 
 .player-controls{
